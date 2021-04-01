@@ -13,14 +13,11 @@ I am a first generation student in my family. My parents immigrated to the US du
 
 I caught myself feeling sorry for myself often, but as I grew up and matured I realized all the benefits of my situation. **My biggest advantage is this, I know what it means to sacrifice for the greater good.** To truly sacrifice is the utmost act of selflessness, to really give something up for the benefit of others. I understand what's required to sacrifice because I have had to do so my whole life.
 
-
 ### Career Goals
 At the moment, the majority of my experiences have been in the classroom. My technical depth has been trained in a multitude of ways but I have yet to scratch the surface in industry. My career goals are to apply what I've already learned, and be a sponge in the work setting to advance my abilities. I want to ship production code, have a real effect on real products, and learn from some of the most skilled engineers who I get to call coworkers.
 
-
 ### Interests outside of the classroom
 1. Basketball
-
 [Kobe](https://www.google.com/search?q=kobe+bryant+background+photos&tbm=isch&ved=2ahUKEwjUu7_2l97vAhWRAzQIHai0Ac0Q2-cCegQIABAA&oq=kobe+bryant+background+photos&gs_lcp=CgNpbWcQAzoECCMQJzoCCAA6BQgAELEDOgYIABAIEB5Q4a8BWMPFAWDXxgFoAHAAeACAAV2IAdEKkgECMTeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=i1VmYJTKHpGH0PEPqOmG6Aw&bih=946&biw=1070&rlz=1C5CHFA_enUS933US934#imgrc=0C71OI0TfK7VqM&imgdii=qLUlrSKgOTiXgM)
 
 1. Hiking
