@@ -17,12 +17,17 @@ I caught myself feeling sorry for myself often, but as I grew up and matured I r
 ### Career Goals
 At the moment, the majority of my experiences have been in the classroom. My technical depth has been trained in a multitude of ways but I have yet to scratch the surface in industry. My career goals are to apply what I've already learned, and be a sponge in the work setting to advance my abilities. I want to ship production code, have a real effect on real products, and learn from some of the most skilled engineers who I get to call coworkers.
 
+- [x] Have an updated resume with the most recent projects I've worked on
+- [x] Update my LinkedIn and Github pages
+- [x] Apply for many internship positions
+- [ ] Secure an internship
+- [ ] Secure a job with the company I intern for
 
 ### Interests outside of the classroom
-1. Basketball
+1. Basketball  
 [Kobe](https://wallpaperaccess.com/kobe-bryant)
 
-2. Hiking
+2. Hiking  
 [Angels Landing](https://zionnationalpark.com/hikes/angels-landing/)
 
 3. Music
@@ -34,9 +39,8 @@ At the moment, the majority of my experiences have been in the classroom. My tec
 5. Beach
 [Sunset Cliffs](https://oceanbeachsandiego.com/attractions/parks/sunset-cliffs-natural-park-and-point-loma-lighthouse)
 
-### LinkedInn
-[brucehaidrey24](https://www.linkedin.com/in/brucehaidrey24/)
+### [LinkedInn](https://www.linkedin.com/in/brucehaidrey24/)
 
-### Github
-[brucehaidrey24](https://github.com/brucehaidrey24)
+### [Github](https://github.com/brucehaidrey24)
+
 
