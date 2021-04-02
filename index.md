@@ -30,13 +30,13 @@ At the moment, the majority of my experiences have been in the classroom. My tec
 2. Hiking  
 [Angels Landing](https://zionnationalpark.com/hikes/angels-landing/)
 
-3. Music
+3. Music  
 [Studio](https://consequenceofsound.net/2010/11/check-out-dr-dre-feat-eminem-i-need-a-doctor/?new=true)
 
-4. Video Games
+4. Video Games  
 [Warzone](https://www.callofduty.com/warzone)
 
-5. Beach
+5. Beach  
 [Sunset Cliffs](https://oceanbeachsandiego.com/attractions/parks/sunset-cliffs-natural-park-and-point-loma-lighthouse)
 
 ### [LinkedInn](https://www.linkedin.com/in/brucehaidrey24/)
