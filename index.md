@@ -27,7 +27,7 @@ At the moment, the majority of my experiences have been in the classroom. My tec
 1. Basketball  
 [Kobe](https://wallpaperaccess.com/kobe-bryant)
 
-2. Hiking
+2. Hiking  
 [Angels Landing](https://zionnationalpark.com/hikes/angels-landing/)
 
 3. Music
