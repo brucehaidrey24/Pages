@@ -1,7 +1,7 @@
 # This is me, Bruce Haidrey
 
 ![Image of Self](https://github.com/brucehaidrey24/Pages/blob/main/IMG_9896.JPG)
-<img src="https://github.com/brucehaidrey24/Pages/blob/main/IMG_9896.JPG" width="300" height="300" />
+<img src="https://github.com/brucehaidrey24/Pages/blob/main/IMG_9896.JPG" width="300" height="400" />
 <img src="https://github.com/brucehaidrey24/Pages/blob/main/IMG_9896.JPG" width="200" height="200" />
 
 ### Background
