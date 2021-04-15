@@ -1,6 +1,6 @@
 # This is me, Bruce Haidrey
 
-![Image of Self](https://github.com/brucehaidrey24/Pages/blob/branch2/IMG_9896.JPG)
+![Image of Self](https://github.com/brucehaidrey24/Pages/blob/main/IMG_9896.JPG)
 
 ### Background
 I am a first generation student in my family. My parents immigrated to the US during the Soviet invasion of Afghanistan without **ANY** knowledge of the culture or even the English language, all in hopes of providing their kids with opportunities they never had. Growing up, we had many small businesses that my siblings and I had to help manage. I began working by the age of 12 and quickly had more responsibilities than any 12 year old should, and I couldn't understand why. My friends would constantly be out playing at the park or getting together after our youth basketball games to eat, but I couldn't attend, because I had to get back to work. I couldn't do anything that I felt "normal" kids my age did. I began asking myself many questions:
